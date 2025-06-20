@@ -1,0 +1,5 @@
+```txt
+__pycache__/
+*.pyc
+air_traffic_map.html
+.env
